@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/linux-app/static/css/main.246bf668.css",
+    "main.js": "/linux-app/static/js/main.b7951db0.js",
+    "index.html": "/linux-app/index.html",
+    "main.246bf668.css.map": "/linux-app/static/css/main.246bf668.css.map",
+    "main.b7951db0.js.map": "/linux-app/static/js/main.b7951db0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246bf668.css",
+    "static/js/main.b7951db0.js"
+  ]
+}
